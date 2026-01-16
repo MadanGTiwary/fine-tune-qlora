@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "🚀 Launching Streamlit IT Support Assistant..."
+source .venv/bin/activate
+streamlit run src/app.py

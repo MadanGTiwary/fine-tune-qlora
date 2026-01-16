@@ -1,6 +1,9 @@
-mlx>=0.8.0
-mlx_lm
-transformers
-numpy
-jupyterlab
-ipywidgets
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.16.0
+peft>=0.7.0
+bitsandbytes>=0.41.0
+accelerate>=0.25.0
+wandb>=0.16.0
+PyYAML>=6.0
+streamlit>=1.32.0

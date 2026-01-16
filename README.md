@@ -1,23 +1,29 @@
-# Local Fine-tuning on Mac (QLoRA with MLX)
+# QLoRA Enterprise IT Support Assistant 🚀
 
-Code hacked from here: https://github.com/ml-explore/mlx-examples/tree/main/lora
+This project fine-tunes a large language model using **QLoRA (4-bit quantization + LoRA adapters)** to function as an **enterprise IT support assistant**.
 
-### How to Setup
+### 💡 Why QLoRA?
+- Enables fine-tuning 7B+ models on a single GPU  
+- Dramatically reduces VRAM usage  
+- Only LoRA adapters are updated (efficient training)
 
-1. Clone repo and navigate to this folder
-2. Create Python env
-```
-python -m venv mlx-env
-```
-3. Activate env (bash/zsh)
-```
-source mlx-env/bin/activate
-```
-4. Install requirements
-```
-pip install -r requirements.txt
-```
-Note: MLX has the following requirements. More info [here](https://ml-explore.github.io/mlx/build/html/install.html).
-- Using an M series chip (Apple silicon)
-- Using a native Python >= 3.8
-- macOS >= 13.5 (MacOS 14 recommended)
+### 🧠 Use Case
+Trains on IT ticket data — the model learns to generate accurate, context-aware resolutions for issues like:
+- VPN / Access problems  
+- CI/CD failures  
+- Cloud infra troubleshooting  
+
+---
+
+### 🧰 Tech Stack
+- PyTorch ⚙️  
+- Hugging Face Transformers 🤗  
+- PEFT (LoRA / QLoRA)  
+- bitsandbytes (quantization)  
+- Weights & Biases (tracking)
+
+---
+
+### ⚙️ Training
+```bash
+bash scripts/run_train.sh

@@ -1,0 +1,50 @@
+{"ticket_id": "IT-1000", "issue": "Unable to access corporate VPN due to MFA issue", "resolution": "Verify DB host and port; increase connection timeout in config file."}
+{"ticket_id": "IT-1001", "issue": "Slack notifications not triggering for CI pipeline", "resolution": "Check S3 bucket region match and verify backend access credentials."}
+{"ticket_id": "IT-1002", "issue": "Unable to access corporate VPN due to MFA issue", "resolution": "Expand the Azure disk via portal and resize filesystem from CLI."}
+{"ticket_id": "IT-1003", "issue": "Python script failing with 'ModuleNotFoundError'", "resolution": "Verify Slack webhook URL and update CI/CD pipeline config."}
+{"ticket_id": "IT-1004", "issue": "AWS EC2 instance unreachable via SSH", "resolution": "Clear credential cache in Outlook and reauthenticate with Microsoft 365."}
+{"ticket_id": "IT-1005", "issue": "Outlook keeps prompting for password repeatedly", "resolution": "Restart VPN service, reinstall client, and verify DNS settings."}
+{"ticket_id": "IT-1006", "issue": "Printer not found on office network", "resolution": "Remove and re-add the email account; verify ActiveSync configuration."}
+{"ticket_id": "IT-1007", "issue": "Git merge conflict on production branch", "resolution": "Install missing Python module via pip and check PYTHONPATH."}
+{"ticket_id": "IT-1008", "issue": "Outlook keeps prompting for password repeatedly", "resolution": "Reinstall printer driver and ensure network discovery is enabled."}
+{"ticket_id": "IT-1009", "issue": "Slow internet connection in remote office", "resolution": "Verify DB host and port; increase connection timeout in config file."}
+{"ticket_id": "IT-1010", "issue": "Slow internet connection in remote office", "resolution": "Reinstall printer driver and ensure network discovery is enabled."}
+{"ticket_id": "IT-1011", "issue": "Unable to access corporate VPN due to MFA issue", "resolution": "Verify EC2 security groups, key pair, and instance public IP."}
+{"ticket_id": "IT-1012", "issue": "Node.js server crashing due to memory leak", "resolution": "Use git mergetool or rebase from main branch to resolve conflicts."}
+{"ticket_id": "IT-1013", "issue": "Email not syncing on mobile device", "resolution": "Check site permissions and group access in SharePoint admin center."}
+{"ticket_id": "IT-1014", "issue": "Jenkins build failing with missing dependencies", "resolution": "Ensure Docker daemon runs with correct privileges and update user group."}
+{"ticket_id": "IT-1015", "issue": "Kubernetes pod stuck in CrashLoopBackOff", "resolution": "Remove and re-add the email account; verify ActiveSync configuration."}
+{"ticket_id": "IT-1016", "issue": "Git merge conflict on production branch", "resolution": "Check IAM policy and grant proper object-level permissions."}
+{"ticket_id": "IT-1017", "issue": "Node.js server crashing due to memory leak", "resolution": "Expand the Azure disk via portal and resize filesystem from CLI."}
+{"ticket_id": "IT-1018", "issue": "Git merge conflict on production branch", "resolution": "Remove and re-add the email account; verify ActiveSync configuration."}
+{"ticket_id": "IT-1019", "issue": "Cloud storage bucket permission denied", "resolution": "Restart VPN service, reinstall client, and verify DNS settings."}
+{"ticket_id": "IT-1020", "issue": "Windows update causing system restart loop", "resolution": "Reinstall printer driver and ensure network discovery is enabled."}
+{"ticket_id": "IT-1021", "issue": "Terraform apply failing with S3 backend error", "resolution": "Use git mergetool or rebase from main branch to resolve conflicts."}
+{"ticket_id": "IT-1022", "issue": "Slow internet connection in remote office", "resolution": "Check S3 bucket region match and verify backend access credentials."}
+{"ticket_id": "IT-1023", "issue": "PostgreSQL database connection timeout", "resolution": "Roll back recent Windows update or boot into Safe Mode for recovery."}
+{"ticket_id": "IT-1024", "issue": "PostgreSQL database connection timeout", "resolution": "Profile memory usage using node --inspect and fix circular references."}
+{"ticket_id": "IT-1025", "issue": "VPN not connecting on macOS", "resolution": "Profile memory usage using node --inspect and fix circular references."}
+{"ticket_id": "IT-1026", "issue": "Slow internet connection in remote office", "resolution": "Install missing Python module via pip and check PYTHONPATH."}
+{"ticket_id": "IT-1027", "issue": "Python script failing with 'ModuleNotFoundError'", "resolution": "Remove and re-add the email account; verify ActiveSync configuration."}
+{"ticket_id": "IT-1028", "issue": "AWS EC2 instance unreachable via SSH", "resolution": "Restart VPN service, reinstall client, and verify DNS settings."}
+{"ticket_id": "IT-1029", "issue": "Unable to access internal SharePoint site", "resolution": "Check S3 bucket region match and verify backend access credentials."}
+{"ticket_id": "IT-1030", "issue": "Windows update causing system restart loop", "resolution": "Use git mergetool or rebase from main branch to resolve conflicts."}
+{"ticket_id": "IT-1031", "issue": "Python script failing with 'ModuleNotFoundError'", "resolution": "Verify DB host and port; increase connection timeout in config file."}
+{"ticket_id": "IT-1032", "issue": "Outlook keeps prompting for password repeatedly", "resolution": "Expand the Azure disk via portal and resize filesystem from CLI."}
+{"ticket_id": "IT-1033", "issue": "Unable to access internal SharePoint site", "resolution": "Check IAM policy and grant proper object-level permissions."}
+{"ticket_id": "IT-1034", "issue": "Slack notifications not triggering for CI pipeline", "resolution": "Verify EC2 security groups, key pair, and instance public IP."}
+{"ticket_id": "IT-1035", "issue": "Printer not found on office network", "resolution": "Restart VPN service, reinstall client, and verify DNS settings."}
+{"ticket_id": "IT-1036", "issue": "Unable to access corporate VPN due to MFA issue", "resolution": "Expand the Azure disk via portal and resize filesystem from CLI."}
+{"ticket_id": "IT-1037", "issue": "Slack notifications not triggering for CI pipeline", "resolution": "Verify EC2 security groups, key pair, and instance public IP."}
+{"ticket_id": "IT-1038", "issue": "Azure VM disk space running low", "resolution": "Ensure Docker daemon runs with correct privileges and update user group."}
+{"ticket_id": "IT-1039", "issue": "Email not syncing on mobile device", "resolution": "Check S3 bucket region match and verify backend access credentials."}
+{"ticket_id": "IT-1040", "issue": "AWS EC2 instance unreachable via SSH", "resolution": "Verify EC2 security groups, key pair, and instance public IP."}
+{"ticket_id": "IT-1041", "issue": "Jenkins build failing with missing dependencies", "resolution": "Re-register MFA device and reset VPN authentication token."}
+{"ticket_id": "IT-1042", "issue": "Python script failing with 'ModuleNotFoundError'", "resolution": "Check site permissions and group access in SharePoint admin center."}
+{"ticket_id": "IT-1043", "issue": "Cloud storage bucket permission denied", "resolution": "Use git mergetool or rebase from main branch to resolve conflicts."}
+{"ticket_id": "IT-1044", "issue": "Git merge conflict on production branch", "resolution": "Check site permissions and group access in SharePoint admin center."}
+{"ticket_id": "IT-1045", "issue": "Email not syncing on mobile device", "resolution": "Verify Slack webhook URL and update CI/CD pipeline config."}
+{"ticket_id": "IT-1046", "issue": "PostgreSQL database connection timeout", "resolution": "Ensure Docker daemon runs with correct privileges and update user group."}
+{"ticket_id": "IT-1047", "issue": "Windows update causing system restart loop", "resolution": "Install missing Python module via pip and check PYTHONPATH."}
+{"ticket_id": "IT-1048", "issue": "PostgreSQL database connection timeout", "resolution": "Check router settings and contact ISP to verify line stability."}
+{"ticket_id": "IT-1049", "issue": "Azure VM disk space running low", "resolution": "Use git mergetool or rebase from main branch to resolve conflicts."}
